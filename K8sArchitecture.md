@@ -1,6 +1,5 @@
 What happens behind the scenes when you run a ```kubectl run web --image=nginx --replicas=3```  command
 
-<img width="657" alt="Screen Shot 2021-01-26 at 10 08 17 PM" src="https://user-images.githubusercontent.com/5303780/105941514-2ec95380-6023-11eb-835b-b4cd95fab0a8.png">
 
 
 When you run the command, you tell the api server to create a resource of type "deployment", 
